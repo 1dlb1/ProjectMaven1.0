@@ -7,5 +7,5 @@ run in commandline het volgende: mvn spring-boot:run
 
 # Testen
 
-in browser roet het colgende url: http://localhost:7080/greeting 
+In de browser moet het volgende URL worden ingevoerd: http://localhost:7080/greeting 
 of http://localhost:7080/greeting?name=Deldar
